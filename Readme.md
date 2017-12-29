@@ -1,5 +1,5 @@
 # vi-charmap
-Vietnamese char map, a list of something like { 'ả': a, 'ô': o }
+Vietnamese char map, a list of something like { 'ả': 'a', 'ô': 'o' }
 
 ## Usage
 
