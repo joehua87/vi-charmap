@@ -1,6 +1,6 @@
 {
   "name": "vi-charmap",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "map.json",
   "repository": "git@github.com:joehua87/vi-charmap.git",
   "author": "joehua87 <joehua87@gmail.com>",
